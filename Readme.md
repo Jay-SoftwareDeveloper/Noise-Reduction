@@ -1,6 +1,3 @@
-# Read Me File Instructions:
-
-
 To run the provided scripts, open the project folder in a Python-compatible IDE such as Visual Studio Code or a Jupyter environment. Each script is preset with default paths to our dataset. For the DFT and Gaussian scripts, adjust the image path variables to test different images. The CNN model script will train using the "Clean-10" and "Noise-10" datasets and save the trained model to the designated path. To evaluate the trained model, use the provided test image path, which you can modify as needed. For a comprehensive assessment, execute the graph scripts to visualize the performance metrics: MSE, SNR, SSIM, and PSNR. Ensure all scripts are run in the specified order and adhere to the directory structure outlined in the documentation for seamless operation.
 
 ## Script Execution Instructions:
